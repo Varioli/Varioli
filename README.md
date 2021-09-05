@@ -1,0 +1,13 @@
+- 👋 Hi, I’m @Varioli
+- 👀 I’m interested in ...
+Gaining real word experience to both boost my resume and my knowledge in programming. I am a little more than a novice and fairly proficient in the basics of Python. 
+- 🌱 I’m currently learning ...
+I have taken some classes on Python, Javascript, HTML, and currenlty C++. While learning C++, I am also trying to expand my knowledge of python, learning new libraries and uses.
+- 💞️ I’m looking to collaborate on ...
+Small projects that I feel confident that I can be a benificial addition to the team. I am passionate about software/application development and would love to have any experience.
+- 📫 How to reach me ...
+My email is josh.clark123@yahoo.com, feel free to reach out to me if I could be of any assistance, or you have something special to teach!
+<!---
+Varioli/Varioli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+You can click the Preview link to take a look at your changes.
+--->
